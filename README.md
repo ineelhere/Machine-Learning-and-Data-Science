@@ -1,1 +1,2 @@
-<script src="https://gist.github.com/ineelhere/ca106513dfdc063b8cda4ed7a606e537.js"></script>
+This repository contains basic codes related to data science and its applications using python. <br>
+Collaborations are always welcome. Have fun!
