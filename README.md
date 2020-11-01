@@ -12,6 +12,7 @@ References -
 * https://matplotlib.org/3.3.1/contents.html
 * https://scikit-learn.org/stable/
 * https://scikit-learn.org/stable/user_guide.html
+* https://seaborn.pydata.org/generated/seaborn.heatmap.html
 
 Will be updating periodically <br>
 Collaborations are always welcome. Have fun! <br>
