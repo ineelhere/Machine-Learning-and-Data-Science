@@ -1,6 +1,6 @@
-This repository contains basic to advanced codes related to data science and its applications using python. <br>
+**This repository contains basic to advanced codes related to data science and its applications using python.** <br>
 
-References - 
+**References -**
 
 * https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery
 * https://www.oreilly.com/library/view/python-for-data/9781491957653/
@@ -27,4 +27,4 @@ References -
 Will be updating periodically <br>
 Collaborations are always welcome. Have fun! <br>
 
-![](https://i.pinimg.com/originals/11/b4/20/11b420fbf1595be3056ad6355277933c.jpg)
+![](https://miro.medium.com/max/717/1*jdAwoALSdrFDeE4v1QRLNg.png)
