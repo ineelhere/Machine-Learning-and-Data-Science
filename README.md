@@ -3,6 +3,7 @@
 **References -**
 
 * https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery
+* https://developers.google.com/machine-learning/crash-course
 * https://www.oreilly.com/library/view/python-for-data/9781491957653/
 * https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
 * https://docs.python.org/3/
