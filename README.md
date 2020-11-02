@@ -27,4 +27,5 @@
 Will be updating periodically <br>
 Collaborations are always welcome. Have fun! <br>
 
-![](https://miro.medium.com/max/717/1*jdAwoALSdrFDeE4v1QRLNg.png)
+![](https://imgur.com/fPVyfoI)
+(Just kidding!)
