@@ -28,6 +28,6 @@ Will be updating periodically <br>
 Collaborations are always welcome. Have fun! <br>
 
 ![](https://i.imgur.com/fPVyfoI.gif)
-<br>
-(Just kidding!)
+<br><br>
+Just kidding!
 <br>Please let me know if you find errors :)
