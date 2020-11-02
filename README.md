@@ -13,6 +13,16 @@ References -
 * https://scikit-learn.org/stable/
 * https://scikit-learn.org/stable/user_guide.html
 * https://seaborn.pydata.org/generated/seaborn.heatmap.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score
+* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score
+* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score
+* https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+* https://scikit-learn.org/stable/modules/cross_validation.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
+* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
+* https://scikit-learn.org/stable/modules/model_evaluation.html
+* https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+* https://stackoverflow.com/questions/17197492/is-there-a-library-function-for-root-mean-square-error-rmse-in-python/37861832#37861832
 
 Will be updating periodically <br>
 Collaborations are always welcome. Have fun! <br>
