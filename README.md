@@ -1,4 +1,5 @@
-**This repository contains basic to advanced codes related to data science and its applications using python.** <br>
+**This repository contains basic to advanced codes related to data science and machine learning concepts using python.** <br>
+This is a learning endeavour using several online resources as listed below. <br>
 
 **References -**
 
