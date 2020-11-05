@@ -27,9 +27,9 @@ This is a learning endeavour using several online resources as listed below. <br
 * https://stackoverflow.com/questions/17197492/is-there-a-library-function-for-root-mean-square-error-rmse-in-python/37861832#37861832
 
 Will be updating periodically <br>
-Collaborations are always welcome. Have fun! <br>
+Collaborations are always welcome. <br>
 
 ![](https://i.imgur.com/fPVyfoI.gif)
 <br><br>
-Just kidding!
-<br>Please let me know if you find errors :)
+Just kidding. Please let me know if you find errors :)
+<br>Have fun! 
