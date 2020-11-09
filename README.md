@@ -1,5 +1,11 @@
 **This repository contains basic to advanced codes related to data science and machine learning concepts using python.** <br>
-This is a learning endeavour using several online resources as listed below. <br>
+This is a learning endeavour using several online resources (listed under References). <br><br>
+
+**Topics Covered**
+- Pandas
+- Numpy 
+- Matplotlib
+- Scikit Learn
 
 **References -**
 
