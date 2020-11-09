@@ -39,3 +39,5 @@ Collaborations are always welcome. <br>
 <br><br>
 Just kidding. Please let me know if you find errors :)
 <br>Have fun! 
+
+<hr>© Indraneel Chakraborty | 2020
