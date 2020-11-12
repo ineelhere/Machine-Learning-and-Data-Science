@@ -10,6 +10,7 @@ This is a learning endeavour using several online resources (listed under Refere
 **References -**
 
 * https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery
+* https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
 * https://developers.google.com/machine-learning/crash-course
 * https://www.oreilly.com/library/view/python-for-data/9781491957653/
 * https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
