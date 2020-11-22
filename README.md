@@ -1,7 +1,7 @@
 **This repository contains basic to advanced codes related to data science and machine learning concepts using python.** <br>
 This is a learning endeavour using several online resources (listed under References). <br><br>
 
-**Topics Covered**
+**Libraries**
 - Pandas
 - Numpy 
 - Matplotlib
@@ -20,7 +20,7 @@ This is a learning endeavour using several online resources (listed under Refere
 * [Python Documentation](https://docs.python.org/3/)
 * [Numpy Documentation](https://numpy.org/doc/)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
-* https://matplotlib.org/3.3.1/contents.html
+* [Matplotlib Documentation](https://matplotlib.org/3.3.1/contents.html)
 * [Scikit-Learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 * [TensorFlow Docs - 2.3](https://www.tensorflow.org/api_docs/python/tf)
 * [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
@@ -31,11 +31,11 @@ This is a learning endeavour using several online resources (listed under Refere
 * [sklearn.metrics.f1_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score)
 * [Confusion matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
 * [Cross validation](https://scikit-learn.org/stable/modules/cross_validation.html)
-* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
-* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
-* https://scikit-learn.org/stable/modules/model_evaluation.html
-* https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
-* https://stackoverflow.com/questions/17197492/is-there-a-library-function-for-root-mean-square-error-rmse-in-python/37861832#37861832
+* [sklearn.metrics.classification_report](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
+* [sklearn.metrics.roc_auc_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html)
+* [Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
+* [Beyond accuracy, precision and recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+* [Library function for root mean square error rmse in python](https://stackoverflow.com/questions/17197492/is-there-a-library-function-for-root-mean-square-error-rmse-in-python/37861832#37861832)
 
 Will be updating periodically <br>
 Collaborations are always welcome. <br>
