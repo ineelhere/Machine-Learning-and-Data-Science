@@ -17,20 +17,20 @@ This is a learning endeavour using several online resources (listed under Refere
 * [Machine Learning Crash Course with TensorFlow APIs | Google's fast-paced, practical introduction to machine learning](https://developers.google.com/machine-learning/crash-course)
 * [Data Science Course at Sololearn](https://www.sololearn.com/Course/data-science/) 
 * [Machine Learning Course at Sololearn](https://www.sololearn.com/Course/machine-learning/)
-* https://docs.python.org/3/
-* https://numpy.org/doc/
-* http://www.astroml.org/book_figures/appendix/fig_broadcast_visual.html
-* https://pandas.pydata.org/docs/
+* [Python Documentation](https://docs.python.org/3/)
+* [Numpy Documentation](https://numpy.org/doc/)
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
 * https://matplotlib.org/3.3.1/contents.html
-* https://scikit-learn.org/stable/
+* [Scikit-Learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 * [TensorFlow Docs - 2.3](https://www.tensorflow.org/api_docs/python/tf)
-* [Scikit-Learn Docs](https://scikit-learn.org/stable/user_guide.html)
-* https://seaborn.pydata.org/generated/seaborn.heatmap.html
-* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score
-* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score
-* https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score
-* https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
-* https://scikit-learn.org/stable/modules/cross_validation.html
+* [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+* [Broadcast Visualization](http://www.astroml.org/book_figures/appendix/fig_broadcast_visual.html)
+* [Seaborn Heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+* [sklearn.metrics.precision_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score)
+* [sklearn.metrics.recall_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score)
+* [sklearn.metrics.f1_score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score)
+* [Confusion matrix](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+* [Cross validation](https://scikit-learn.org/stable/modules/cross_validation.html)
 * https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
 * https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
 * https://scikit-learn.org/stable/modules/model_evaluation.html
