@@ -6,6 +6,7 @@ This is a learning endeavour using several online resources (listed under Refere
 - Numpy 
 - Matplotlib
 - Scikit Learn
+- TensorFlow 2.3
 
 **References -**
 
@@ -22,7 +23,8 @@ This is a learning endeavour using several online resources (listed under Refere
 * https://pandas.pydata.org/docs/
 * https://matplotlib.org/3.3.1/contents.html
 * https://scikit-learn.org/stable/
-* https://scikit-learn.org/stable/user_guide.html
+* [TensorFlow Docs - 2.3](https://www.tensorflow.org/api_docs/python/tf)
+* [Scikit-Learn Docs](https://scikit-learn.org/stable/user_guide.html)
 * https://seaborn.pydata.org/generated/seaborn.heatmap.html
 * https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score
 * https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score
