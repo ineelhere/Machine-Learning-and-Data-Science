@@ -8,7 +8,7 @@ This is a learning endeavour using several online resources (listed under Refere
 - Scikit Learn
 - TensorFlow 2.3
 
-**References -**
+**References**
 
 * [Complete Machine Learning and Data Science: Zero to Mastery | Taught by Andrei Neagoie & Daniel Bourke](https://academy.zerotomastery.io/p/complete-machine-learning-and-data-science-bootcamp-zero-to-mastery)
 * [Data ScienceTutorial for Beginners from Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
