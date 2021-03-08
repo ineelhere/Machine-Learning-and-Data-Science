@@ -45,4 +45,4 @@ Collaborations are always welcome. <br>
 Just kidding. Please let me know if you find errors :)
 <br>Have fun! 
 
-<hr>© Indraneel Chakraborty | 2020
+<hr>© Indraneel Chakraborty | 2021
